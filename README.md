@@ -1,4 +1,4 @@
-# Go-Server
+# Static File Server | Go, Gin
 
 A lightweight, performant hybrid web server built with **Go** and the **Gin Gonic** web framework. This project demonstrates how to blend the high performance of Gin's API routing with the flexibility of Go's standard library `http.FileServer` via a smart `NoRoute` configuration.
 
